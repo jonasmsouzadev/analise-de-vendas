@@ -29,4 +29,4 @@ Analisar dados de vendas para entender quais produtos e categorias geram mais re
 ## Autor
 Jonas Marques
 
-<img width="3840" height="1080" alt="image" src="https://github.com/user-attachments/assets/16ee7fb4-6726-491d-9060-e3765f164a9b" />
+<img width="1903" height="892" alt="image" src="https://github.com/user-attachments/assets/15d571c7-98a4-4f71-94ae-ac78b11441f9" />
