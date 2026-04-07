@@ -1,15 +1,15 @@
-#Análise de Vendas
+# Análise de Vendas
 
 Projeto de análise de dados desenvolvido com foco em identificar padrões de vendas e comportamento de produtos.
 
-##Objetivo
+## Objetivo
 Analisar dados de vendas para entender quais produtos e categorias geram mais receita.
 
-##Ferramentas
+## Ferramentas
 - Google Sheets
 - Excel
 
-##Estrutura dos dados
+## Estrutura dos dados
 - Data
 - Produto
 - Categoria
@@ -17,14 +17,14 @@ Analisar dados de vendas para entender quais produtos e categorias geram mais re
 - Quantidade
 - Total
 
-##Análises realizadas
+## Análises realizadas
 - Total de vendas por produto
 - Receita por categoria
 - Produtos mais vendidos
 
-##Insights
+## Insights
 - Produtos da categoria "Roupa" geraram maior receita
 - Itens de menor preço tiveram maior volume de vendas
 
-##Autor
+## Autor
 Jonas Marques
